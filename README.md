@@ -1,4 +1,7 @@
 # Dice-game
+
+<img width="525" height="436" alt="hog" src="https://github.com/user-attachments/assets/d1ba7acb-1e9e-40c7-886b-6b2d7dd08a9f" />
+
 In this dice game, two players alternate turns trying to reach 100 points first. On each turn, the current player chooses some number of dice to roll, up to 10. Their turn score is the sum of the dice outcomes, unless any of the dice come up a 1, in which case the score for her turn is only 1 point (the Pig out rule).
 
 To spice up the game, there are some special rules:
